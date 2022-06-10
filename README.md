@@ -1,17 +1,6 @@
 
 <p align="center">
 
-  <a href="#-layout">Layout</a> •
-
-  <a href="#-technologies">Technologies</a> •
-
-  <a href="#-getting-started">Getting started</a> •
-
-</p>
-
-
-<p align="center">
-
   <img alt="Feedget Mockup" src="./mockup.png" width="100%">
 
 </p>
